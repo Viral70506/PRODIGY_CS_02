@@ -1,4 +1,3 @@
-# PRODIGY_CS_02
 # Image Encryption & Decryption Tool
 
 A Python-based tool for encrypting and decrypting images using XOR operation and pixel shuffling.  
@@ -31,4 +30,4 @@ git clone https://github.com/your-username/image-encryption-tool.git
 cd image-encryption-tool
 
 ## Author
-**Viral solkar**  
+**Prathamesh Pawar**  
