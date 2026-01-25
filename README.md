@@ -30,4 +30,4 @@ git clone https://github.com/your-username/image-encryption-tool.git
 cd image-encryption-tool
 
 ## Author
-**Prathamesh Pawar**  
+**Viral Solkar**  
